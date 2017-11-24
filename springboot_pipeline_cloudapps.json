@@ -3,8 +3,8 @@
 	"kind": "BuildConfig",
 	"metadata": {
 		"name": "cloudapps-pipeline",
-		"namespace": "cicd",
-		"selfLink": "/oapi/v1/namespaces/cicd/buildconfigs/cloudapps-pipeline",
+		"namespace": "gitspringboot",
+		"selfLink": "/oapi/v1/namespaces/gitspringboot/buildconfigs/cloudapps-pipeline",
 		"creationTimestamp": null,
 		"labels": {
 			"app": "cloudapps-pipeline"
